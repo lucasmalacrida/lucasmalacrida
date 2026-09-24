@@ -2,8 +2,6 @@
 
 ### Desenvolvedor FullStack
 
-- 🚀 Apaixonado por exatas e resolução de problemas, iniciei minha jornada na engenharia aeronáutica, migrei para física e encontrei minha real paixão no desenvolvimento de software. Como dev, combino lógica afiada com uma curiosidade insaciável, trazendo soluções ágeis para apps que melhoram a vida das pessoas.
-
 <hr/>
 <h3 align="left">Conecte comigo!</h3>
 <div align="left">
